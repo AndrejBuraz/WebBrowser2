@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\bin\Debug\WebBrowserVjezba1.exe.config
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\bin\Debug\WebBrowserVjezba1.exe
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\bin\Debug\WebBrowserVjezba1.pdb
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\obj\Debug\WebBrowserVjezba1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\obj\Debug\WebBrowserVjezba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\obj\Debug\WebBrowserVjezba1.Form1.resources
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\obj\Debug\WebBrowserVjezba1.Properties.Resources.resources
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\obj\Debug\WebBrowserVjezba1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\obj\Debug\WebBrowserVjezba1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\obj\Debug\WebBrowserVjezba1.exe
+C:\Users\HP\source\repos\WebBrowserVjezba1\WebBrowserVjezba1\obj\Debug\WebBrowserVjezba1.pdb
